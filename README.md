@@ -1,1 +1,1 @@
-# PostgreSQL-projects
+online book store project on postgresql
