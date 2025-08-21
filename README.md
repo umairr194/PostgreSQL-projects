@@ -1,1 +1,1 @@
-this is online book store basic project on postgresql
+ online book store basic project on postgresql
